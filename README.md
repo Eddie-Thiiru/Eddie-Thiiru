@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi👋, I'm Eddie
+
+### Full Stack Developer
+
+- 📧 How to reach me: eddiewachaga6@gmail.com
+- 💼 Lets connect [LinkedIn](https://www.linkedin.com/in/eddie-thiiru-853525a8/)
+
+# 💻 Languages and Tools
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vite,react,nodejs,expressjs,mongodb,jest,git,webpack)](https://skills.thijs.gg)
 
 <!--
 **Eddie-Thiiru/Eddie-Thiiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
