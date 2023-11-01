@@ -1,6 +1,10 @@
-### Hi👋, I'm Eddie
+<h1 align="center">
+  Hi👋, I'm Eddie
+</h1>
 
-### Full Stack Developer
+<h2 align="center">
+  Full Stack Developer
+</h2>
 
 - 📧 How to reach me: eddiewachaga6@gmail.com
 - 💼 Lets connect [LinkedIn](https://www.linkedin.com/in/eddie-thiiru-853525a8/)
